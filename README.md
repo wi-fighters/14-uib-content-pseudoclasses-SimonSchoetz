@@ -11,3 +11,5 @@
 5.  Add some additional styling to your page e.g. background colors.
 
 ![alt-text](/image/reference-image.png "Reference Image")
+
+In case you lose the link: https://github.com/wi-fighters/14-uib-content-pseudoclasses-SimonSchoetz
